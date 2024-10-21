@@ -6,3 +6,4 @@ class BaseTokenizer(ABC):
     def tokenize(self, text: str) -> List[str]:
         pass
 
+# TODO: Implement the BaseTokenizer class
